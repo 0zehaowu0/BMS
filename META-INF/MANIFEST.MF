@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: spring-core-5.1.4.RELEASE.jar jackson-databind-2.9.5.jar spr
+ ing-expression-5.1.4.RELEASE.jar standard-1.1.2.jar commons-lang3-3.10.
+ jar slf4j-log4j12-1.6.6.jar mybatis-3.4.5.jar jstl-1.2.jar jstl-1.2.jar
+  spring-test-5.1.4.RELEASE.jar spring-jdbc-5.1.4.RELEASE.jar spring-con
+ text-5.1.4.RELEASE.jar spring-tx-5.1.4.RELEASE.jar junit-4.12.jar mybat
+ is-spring-1.3.0.jar mysql-connector-java-5.1.6.jar spring-webmvc-5.1.4.
+ RELEASE.jar c3p0-0.9.1.2.jar jackson-annotations-2.9.0.jar spring-beans
+ -5.1.4.RELEASE.jar jsqlparser-1.0.jar pagehelper-5.1.2.jar jackson-core
+ -2.10.4.jar hamcrest-core-1.3.jar log4j-1.2.12.jar spring-jcl-5.1.4.REL
+ EASE.jar aspectjweaver-1.6.8.jar spring-web-5.1.4.RELEASE.jar mybatis-g
+ enerator-core-1.3.7.jar spring-aop-5.1.4.RELEASE.jar slf4j-api-1.6.6.ja
+ r
+
